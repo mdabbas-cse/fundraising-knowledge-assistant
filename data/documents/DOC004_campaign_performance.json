@@ -1,0 +1,9 @@
+{
+  "id": "DOC004",
+  "title": "Campaign Performance",
+  "category": "analytics",
+  "created_at": "2026-02-17",
+  "source_type": "synthetic_training_document",
+  "disclaimer": "Synthetic training document for an educational project. Not an official policy, report or donor record of any real organization.",
+  "content": "Measuring campaign performance helps fundraising teams understand which activities raise the most funds and engage supporters effectively. Every campaign should define its goal and key performance indicators before launch.\n\nCommon metrics used to measure campaign performance include total income raised, number of gifts, average gift size, response rate, conversion rate and return on investment. Return on investment is calculated as income raised minus campaign cost, divided by campaign cost.\n\nFor digital campaigns, track email open rate, click-through rate, landing page conversion rate and cost per click. For face-to-face campaigns, track sign-ups per fundraiser and the attrition of new monthly donors in their first months.\n\nCompare results against a baseline, such as a previous campaign or a control group that did not receive the appeal. A/B testing compares two versions of a message to learn which one performs better.\n\nShort-term income is not the only measure of success. A campaign that recruits loyal donors with high lifetime value can perform better over time than one with a high immediate return.\n\nReport campaign performance on a dashboard that is updated regularly. Present results with clear context so managers can decide whether to scale, adjust or stop an activity. Document lessons learned after each campaign so future campaigns can improve."
+}

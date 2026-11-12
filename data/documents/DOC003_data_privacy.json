@@ -1,0 +1,9 @@
+{
+  "id": "DOC003",
+  "title": "Data Privacy",
+  "category": "data_governance",
+  "created_at": "2026-02-03",
+  "source_type": "synthetic_training_document",
+  "disclaimer": "Synthetic training document for an educational project. Not an official policy, report or donor record of any real organization.",
+  "content": "Fundraising teams handle personal information such as donor names, email addresses, phone numbers, postal addresses and payment details. Protecting this personal information is a legal duty and essential for donor trust.\n\nCollect only the personal data that is needed for a clear purpose. This principle is called data minimisation. Explain to donors why their data is collected and how it will be used, and record their consent for marketing communication.\n\nTo protect personal information, apply role-based access control so staff only see the data they need for their work. Use strong passwords and multi-factor authentication for all systems that store donor records. Encrypt personal data at rest and in transit. Never share donor spreadsheets through personal email or unapproved cloud storage.\n\nPayment card details should be processed only by certified payment providers and must never be stored in internal fundraising databases.\n\nDefine a retention schedule and delete or anonymise personal data that is no longer required. Donors have the right to access, correct or delete their data and to withdraw consent at any time; these requests must be handled promptly.\n\nWhen personal information is used for analytics or AI projects, remove direct identifiers or use synthetic data wherever possible. Real donor data must never be pasted into public AI tools.\n\nIf a data breach is suspected, report it immediately to the data protection officer so the incident can be assessed, contained and, if required, reported to the authorities."
+}

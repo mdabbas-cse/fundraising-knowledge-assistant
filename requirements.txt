@@ -1,0 +1,16 @@
+# Phase 1 runtime
+scikit-learn>=1.3      # TfidfVectorizer, cosine_similarity
+numpy>=1.24            # score arrays (also required by scikit-learn)
+scipy>=1.10            # sparse TF-IDF matrices (also required by scikit-learn)
+python-dotenv>=1.0     # load optional .env settings
+
+# Testing
+pytest>=7.4
+
+# Phase 2 (not installed yet) - uncomment when implemented:
+# fastapi>=0.110
+# uvicorn[standard]>=0.29
+# openai>=1.30            # or another LLM provider SDK
+# sentence-transformers>=2.7
+# psycopg[binary]>=3.1
+# pgvector>=0.2

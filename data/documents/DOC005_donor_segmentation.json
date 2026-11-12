@@ -1,0 +1,9 @@
+{
+  "id": "DOC005",
+  "title": "Donor Segmentation",
+  "category": "analytics",
+  "created_at": "2026-03-02",
+  "source_type": "synthetic_training_document",
+  "disclaimer": "Synthetic training document for an educational project. Not an official policy, report or donor record of any real organization.",
+  "content": "Donor segmentation is the practice of dividing donors into groups that share similar characteristics or behaviour, so that each group can receive more relevant communication.\n\nA widely used segmentation method is RFM analysis, which groups donors by recency (how recently they gave), frequency (how often they give) and monetary value (how much they give). Donors who gave recently, often and generously are usually the most engaged.\n\nOther segmentation approaches include giving type (one-time, monthly or major donors), acquisition channel (digital, face-to-face, events or emergency appeals), cause interest (education, health, nutrition or emergencies) and engagement level (opening emails, attending events or volunteering).\n\nSegmentation helps teams personalize messages, choose the right ask amount and decide which channel to use. For example, lapsed donors may receive a reactivation message, while loyal monthly donors may receive an invitation to increase their gift.\n\nSegments should be large enough to be meaningful and should be reviewed regularly because donor behaviour changes over time. Teams should measure how each segment responds so that the segmentation model can be improved.\n\nSegmentation must respect privacy. Use only data that donors agreed to share, avoid sensitive personal attributes, and never make assumptions about donors that could be unfair or discriminatory."
+}
